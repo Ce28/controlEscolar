@@ -1,0 +1,23 @@
+commit 1d775facee2c44e17e5fab02eb4ac09e01dd9434
+Author: Christian Enrique Sapien Gamez <Christian.Sapien@hotmail.com>
+Date:   Thu Mar 17 23:09:43 2016 -0700
+
+    Casos de uso
+
+commit 4446f5dd57c50be45b89dfb11b159ba83bd69d52
+Author: Christian Enrique Sapien Gamez <Christian.Sapien@hotmail.com>
+Date:   Thu Mar 17 23:08:12 2016 -0700
+
+    Requisitos no funcionales
+
+commit b92b13a468736909c90004d41856c78035ee217a
+Author: Christian Enrique Sapien Gamez <Christian.Sapien@hotmail.com>
+Date:   Thu Mar 17 23:06:27 2016 -0700
+
+    Requisitos funcionales
+
+commit 4c492c28456d96cb72de6145b099dafef7a53b6f
+Author: Christian Enrique Sapien Gamez <Christian.Sapien@hotmail.com>
+Date:   Thu Mar 17 23:04:06 2016 -0700
+
+    Documento de requisitos

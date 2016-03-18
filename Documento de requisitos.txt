@@ -27,3 +27,7 @@ CU002: Imprimir cardex.
 
 CU003: Cargar materias.
 ____________________________________________
+
+Conclusiones:
+El sistema sirve para gestionar los servicios 
+del departamento de control escolar.
